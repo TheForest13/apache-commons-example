@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.logging;
+package com.theforest.apachecommonsexample.hard.logging;
 
 /**
  * Wrapper around a variety of logging API implementations.

@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.fileupload;
+package com.theforest.apachecommonsexample.hard.fileupload;
 
 /**
  * File upload capability for your servlets and web applications.

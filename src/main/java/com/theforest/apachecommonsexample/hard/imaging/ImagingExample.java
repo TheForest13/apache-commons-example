@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.imaging;
+package com.theforest.apachecommonsexample.hard.imaging;
 
 /**
  * A pure-Java image library.

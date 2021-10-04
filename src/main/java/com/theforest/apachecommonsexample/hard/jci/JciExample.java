@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.jci;
+package com.theforest.apachecommonsexample.hard.jci;
 
 /**
  * JCI is a java compiler interface.

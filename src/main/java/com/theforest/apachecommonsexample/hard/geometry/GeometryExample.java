@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.geometry;
+package com.theforest.apachecommonsexample.hard.geometry;
 
 /**
  * Space and coordinates.

@@ -16,7 +16,7 @@ public class IoExample {
 //        readByteFromUrlWithIOUtils();
 //        readAnEntireFileLineByLine();
 //        normalizedFileName();
-//        findFreeSpaceOnDrive();
+        findFreeSpaceOnDrive();
     }
 
     /**

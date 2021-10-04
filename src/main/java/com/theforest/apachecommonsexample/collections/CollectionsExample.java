@@ -11,9 +11,9 @@ import org.apache.commons.collections.map.LinkedMap;
 public class CollectionsExample {
 
     public static void main(String[] args) {
-//        mapIterator();
-//        orderedMaps();
-//        bidirectionalMaps();
+        mapIterator();
+        orderedMaps();
+        bidirectionalMaps();
         bags();
     }
 

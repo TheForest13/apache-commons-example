@@ -1,6 +1,5 @@
-package com.theforest.apachecommonsexample.email;
+package com.theforest.apachecommonsexample.hard.email;
 
-import org.apache.commons.lang.StringUtils;
 import org.apache.commons.mail.*;
 
 /**

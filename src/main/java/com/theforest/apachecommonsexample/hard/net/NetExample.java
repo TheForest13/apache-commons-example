@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.net;
+package com.theforest.apachecommonsexample.hard.net;
 
 /**
  * Collection of network utilities and protocol implementations.

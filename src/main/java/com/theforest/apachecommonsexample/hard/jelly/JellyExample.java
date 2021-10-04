@@ -1,8 +1,6 @@
-package com.theforest.apachecommonsexample.jelly;
+package com.theforest.apachecommonsexample.hard.jelly;
 
 import java.io.*;
-import java.util.Enumeration;
-import java.util.Vector;
 
 /**
  * XML based scripting and processing engine.
