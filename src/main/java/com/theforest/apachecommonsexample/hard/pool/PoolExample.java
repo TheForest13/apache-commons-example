@@ -1,4 +1,4 @@
-package com.theforest.apachecommonsexample.pool;
+package com.theforest.apachecommonsexample.hard.pool;
 
 import org.apache.commons.pool2.BasePooledObjectFactory;
 import org.apache.commons.pool2.ObjectPool;

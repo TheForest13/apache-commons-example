@@ -9,6 +9,33 @@ repositories {
     mavenCentral()
 }
 
+
+
+def dest = 'dest'
+
+tasks.register('copy', Copy) {
+    from 'source'
+    into dest
+}
+
+import java.text.FieldPosition
+
+tasks.register('configure') {
+    doLast {
+        def pos = configure(new FieldPosition(10)) {
+            beginIndex = 1
+            endIndex = 5
+        }
+        println pos.beginIndex
+        println pos.endIndex
+    }
+}
+
+
+
+
+
+
 dependencies {
 
     implementation group: 'org.apache.bcel', name: 'bcel', version: '6.5.0'
